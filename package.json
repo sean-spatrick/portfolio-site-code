@@ -1,0 +1,27 @@
+{
+  "name": "new-portfolio-site",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-ga": "^2.5.3",
+    "react-instagram-embed": "^1.3.2",
+    "react-scripts": "1.0.14",
+    "react-three-renderer": "^3.2.4",
+    "styled-components": "^3.3.3",
+    "three": "^0.86.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "license": {
+     "status" : "active",
+     "copyright":"Sean Patrick",
+     "year": "2018",
+     "discplaimer":"The Projects contained herein belong to the clients for which they were developed, I am claiming a part in their completion. any images contained herein should not be used without the permission of myself (Sean Patrick) and or the subsequent parties that may claim rightful ownership"
+  }
+}
